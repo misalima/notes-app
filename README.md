@@ -2,6 +2,9 @@
 
 ## Screenshot
 
+![image](https://user-images.githubusercontent.com/91353521/233783322-bd518a83-70bc-48b5-82f5-3d02c198ba42.png)
+![image](https://user-images.githubusercontent.com/91353521/233783338-01455081-6fab-4379-9d77-b528a36ffee3.png)
+
 
 
 ## What it does
@@ -9,11 +12,11 @@ This is a simple Vue.js app from the course of [Laith Academy's YouTube channel]
 
 ## What I used
 
--HTML, CSS;
-    -CSS Flexbox;
--JavaScript;
--Vue.js;
--Vite dev tool;
+- HTML, CSS;
+    - CSS Flexbox;
+- JavaScript;
+- Vue.js;
+- Vite dev tool;
 
 
 ## What I learned
@@ -30,8 +33,8 @@ It was an awesome project to do, and I'm excited about more complex projects.
 
 To check out the project, install it in your computer by following the steps:
 
-1. Clone the repository: git clone https://github.com/misalima/notes-app.git.
+1. Clone the repository: `git clone https://github.com/misalima/notes-app.git`.
 2. In your command line interface, navigate to the project directory.
-3. Install dependencies: npm install.
-4. Start the development server: npm run dev. 
+3. Install dependencies: `npm install`.
+4. Start the development server: `npm run dev`. 
 5. It will spin up a local server and show the address. Open your browser and go to the indicated port to view the app.
